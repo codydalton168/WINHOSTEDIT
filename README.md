@@ -1,2 +1,2 @@
-# WINHOSTEDIT
-C#  Windows HOST EDIT Demo
+# c# sample
+HOSTS edit Sample Part of the original code
